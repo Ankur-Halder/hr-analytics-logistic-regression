@@ -41,7 +41,7 @@ This repository contains a Logistic Regression-based machine learning model buil
 
 ```bash
 # Step 1: Clone the repository
-https://github.com/your-username/hr-analytics-logistic-regression.git
+https://github.com/Ankur-Halder/hr-analytics-logistic-regression.git
 
 # Step 2: Navigate to the project folder
 cd hr-analytics-logistic-regression
